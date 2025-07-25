@@ -29,14 +29,6 @@ Project Files
 | Tableau    | Customer segmentation & regional analysis |
 | SQL        | Queries for sales, customers, and orders  |
 
-Sample Dashboards
-
-Power BI Dashboard
-![Power BI](Images/dashboard_overview.png)
-
-Tableau Dashboard
-![Tableau](Images/customer_segments.png)
-
 Contact
 (mailto:divyarramamurthy@gmail.com)
 
