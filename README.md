@@ -38,14 +38,7 @@ Tableau Dashboard
 ![Tableau](Images/customer_segments.png)
 
 Contact
-
-📧 [divyarramamurthy@gmail.com](mailto:divyarramamurthy@gmail.com)
+(mailto:divyarramamurthy@gmail.com)
 
 _“Turning data into decisions, one dashboard at a time!”_
 
-## 📫 Contact
-
-📧 [divyarramamurthy@gmail.com](mailto:divyarramamurthy@gmail.com)
-
----
-_“Turning data into decisions, one dashboard at a time!”_
